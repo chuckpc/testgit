@@ -1,1 +1,7 @@
 cpctest
+
+dev :cpc
+dev :xlm
+hello 
+
+
