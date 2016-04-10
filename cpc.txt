@@ -2,6 +2,8 @@ cpctest
 
 dev :cpc
 dev :xlm
-hello 
+hello
+
+hello xlm
 
 hello cpc cpc
